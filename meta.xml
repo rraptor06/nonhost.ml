@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.2">
+  <name>WiiU Non-Host Launcher</name>
+  <coder>Rambo6Glaz, Adil, LetsTimeOut</coder>
+  <version>1.2</version>
+  <release_date>20200504000000</release_date>
+  <short_description>Start WiiU Non-Host Mods</short_description>
+  <long_description>A WiiU non-host mod menu launcher for your WiiU. It requires an internet connection.</long_description>
+</app>

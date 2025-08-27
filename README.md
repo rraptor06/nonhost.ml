@@ -14,12 +14,13 @@
 - Next, on your Wii U, go to your Internet connection settings under Proxy and enter the following: IP: 192.168.1.4 Port: 8888 (or your proxy port). Then test your connection, and you're all set!
 - The last thing to do is to activate TCP Websocket to run Vulcain/Trinity/Phantom, so go to the `socket` folder and execute `php server.php` on the command line. (You will need to install PHP on your computer.)
 
-------- what's works ? -------
-| Payload loader ✅ 	     |
+|------ what's works ? ------|
+| Payload loader ✅ 	       |
 | SDL Application ✅         |
 | Vulcain/Trinity/Phantom ❌ |
 
 ## Credits
 - Lokey for Vulcain/TrinityV3/Phantom files.
 - Hide/Canteventry for the websocket for modmenus.
+
 - BullyWiiPlaza for the web files he gave me

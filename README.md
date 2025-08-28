@@ -1,4 +1,4 @@
-# HOW TO USE NONHOST.ML AGAIN IN 2025/2026 ?
+# HOW TO USE NONHOST.ML WII U AGAIN IN 2025/2026 ?
 - Original NON-HOST IP: 51.91.56.16
 - New IP: 192.168.1.4
 
@@ -9,9 +9,9 @@
 
 ## TUTORIAL:
 - First step, Install and launch XAMPP Control Panel, start Apache/PHP, then place the above files in the `htdocs` folder.
-- You must change your computer's IP address to `192.168.1.4`. 
+- You must change your computer's IP address to `192.168.1.4` in the control panel. 
 - Then download Charles Proxy and launch it on your computer, then go to `Map Remote -> Add` and in the first box enter `protocols: http + host: 51.91.56.16` and in the second box enter `protocols: http + host: 192.168.1.4` (basically, Charles Proxy will make these requests to `192.168.1.4` instead of the nonhost IP).
-- Next, on your Wii U, go to your Internet connection settings under Proxy and enter the following: IP: 192.168.1.4 Port: 8888 (or your proxy port). Then test your connection, and you're all set!
+- Next, on your Wii U, go to settings and go to your Internet connection settings under Proxy and enter the following -> `IP: 192.168.1.4 Port: 8888` (or your proxy port). Then test your connection, and you're all set!
 - The last thing to do is to activate TCP Websocket to run Vulcain/Trinity/Phantom, so go to the `socket` folder and execute `php server.php` on the command line. (You will need to install PHP on your computer.)
 
 ## WHATS WORKS ?
@@ -25,7 +25,4 @@
 ## Credits
 - Lokey for Vulcain/TrinityV3/Phantom files.
 - Hide/Canteventry for the websocket for modmenus.
-
-- BullyWiiPlaza for the web files he gave me
-
-
+- BullyWiiPlaza for the web files he gave me.

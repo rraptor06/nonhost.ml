@@ -26,7 +26,7 @@ function rc4($key, $str) {
         return $res;
 }
 
-$handle = fopen("/home/ubuntu/php/q8fsd5qsdf5q4fdh4utuyi45ghj5k4hj", "rb");
+$handle = fopen("q8fsd5qsdf5q4fdh4utuyi45ghj5k4hj", "rb");
 if (FALSE === $handle) {
     exit("Echec lors de l'ouverture du flux");
 }
@@ -47,7 +47,7 @@ header('Content-Type: ' . "application/octet-stream");
 finfo_close($finfo);
 
 //Use Content-Disposition: attachment to specify the filename
-header('Content-Disposition: attachment; filename='.basename("/home/ubuntu/php/q8fsd5qsdf5q4fdh4utuyi45ghj5k4hj"));
+header('Content-Disposition: attachment; filename='.basename("q8fsd5qsdf5q4fdh4utuyi45ghj5k4hj"));
 
 //No cache
 header('Expires: 0');
@@ -55,9 +55,9 @@ header('Cache-Control: must-revalidate');
 header('Pragma: public');
 
 //Define file size
-header('Content-Length: ' . filesize("/home/ubuntu/php/q8fsd5qsdf5q4fdh4utuyi45ghj5k4hj"));
+header('Content-Length: ' . filesize("q8fsd5qsdf5q4fdh4utuyi45ghj5k4hj"));
 
-$fsize__ = filesize("/home/ubuntu/php/q8fsd5qsdf5q4fdh4utuyi45ghj5k4hj");
+$fsize__ = filesize("q8fsd5qsdf5q4fdh4utuyi45ghj5k4hj");
 echo $contents;
 
 ?>

@@ -1,4 +1,4 @@
-# HOW TO USE NONHOST.ML WII U AGAIN IN 2025/2026 ?
+# HOW TO USE NONHOST.ML WIIU AGAIN IN 2025/2026 ?
 - Original NON-HOST IP: 51.91.56.16
 - New IP: 192.168.1.4
 
@@ -20,9 +20,10 @@
 |----------------------------|
 | Payload loader ✅ 	       |
 | SDL Application ✅         |
-| Vulcain/Trinity/Phantom ❌ |
+| Vulcain/Trinity/Phantom 🟠 |
 
 ## Credits
 - Lokey for Vulcain/TrinityV3/Phantom files.
 - Hide/Canteventry for the websocket for modmenus.
 - BullyWiiPlaza for the web files he gave me.
+

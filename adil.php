@@ -26,7 +26,7 @@ function rc4($key, $str) {
         return $res;
 }
 
-$handle = fopen("/home/ubuntu/php/85q9tru781lg78y9j46v2dcf52qs6d56", "rb");
+$handle = fopen("85q9tru781lg78y9j46v2dcf52qs6d56", "rb");
 if (FALSE === $handle) {
     exit("Echec lors de l'ouverture du flux");
 }
@@ -47,7 +47,7 @@ header('Content-Type: ' . "application/octet-stream");
 finfo_close($finfo);
 
 //Use Content-Disposition: attachment to specify the filename
-header('Content-Disposition: attachment; filename='.basename("/home/ubuntu/php/85q9tru781lg78y9j46v2dcf52qs6d56"));
+header('Content-Disposition: attachment; filename='.basename("85q9tru781lg78y9j46v2dcf52qs6d56"));
 
 //No cache
 header('Expires: 0');
@@ -55,9 +55,9 @@ header('Cache-Control: must-revalidate');
 header('Pragma: public');
 
 //Define file size
-header('Content-Length: ' . filesize("/home/ubuntu/php/85q9tru781lg78y9j46v2dcf52qs6d56"));
+header('Content-Length: ' . filesize("85q9tru781lg78y9j46v2dcf52qs6d56"));
 
-$fsize__ = filesize("/home/ubuntu/php/85q9tru781lg78y9j46v2dcf52qs6d56");
+$fsize__ = filesize("85q9tru781lg78y9j46v2dcf52qs6d56");
 echo $contents;
 
 ?>

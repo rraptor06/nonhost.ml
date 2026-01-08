@@ -1,4 +1,4 @@
-# HOW TO USE NONHOST.ML WIIU AGAIN IN 2025/2026 ?
+# HOW TO USE NONHOST.ML WIIU AGAIN IN 2026/2027 ?
 - Original NON-HOST IP: 51.91.56.16
 - New IP: 192.168.1.4
 
@@ -17,6 +17,15 @@
 ## INFORMATIONS:
 - Please note that the web files are the real nonhost files (even if they are very old), but for the websocket it is a redesign created by Hide/Canteventry, thanks to him :D
 
+## WHAT DID THEY USE TO MAKE THEIR MENUS ?
+- To make the menu mods they used the source of WiiUGameHacking as we can see in lto.elf (Phantom), adil.elf (vulcain), adilmc.elf(minecraft) or rambo.elf(server) because inside we see a famous:
+```
+==================
+GameHackingHelper by NexoCube
+We're started ...
+```
+- And also the launcher.elf was made under WiiUGameHacking too !
+
 ## WHATS WORKS ?
 
 |       what's works ?       |
@@ -29,4 +38,5 @@
 - Lokey for Vulcain/TrinityV3/Phantom files.
 - Hide/Canteventry for the websocket.
 - BullyWiiPlaza for the web files he gave me.
+
 

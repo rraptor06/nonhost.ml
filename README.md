@@ -7,6 +7,9 @@
 - Vulcain (adil) key: YhU4880KL6 | file name: 85q9tru781lg78y9j46v2dcf52qs6d56
 - Phantom (lto) key: XeYjobzW6h | file name: q8fsd5qsdf5q4fdh4utuyi45ghj5k4hj
 
+## WHAT IS NONHOST.ML ?
+- nonhost.ml was a small website to load and use a modmenu of cheats for BO2 and Minecraft on the Nintendo Wii U, there were 2 BO2 modmenus which were Vulcan and Phantom which cost 20€ and a Minecraft modmenu which was Trinity which cost 10€.
+
 ## TUTORIAL:
 - First step, Install PHP and git clone this repository.
 - You must change your computer's IP address to `192.168.1.4` in the control panel.
@@ -38,5 +41,6 @@ We're started ...
 - Lokey for Vulcain/TrinityV3/Phantom files.
 - Hide/Canteventry for the websocket.
 - BullyWiiPlaza for the web files he gave me.
+
 
 

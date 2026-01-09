@@ -24,6 +24,7 @@
 ## 💪 INFORMATIONS: 💪
 -----------------------------------------------------------------------------------------------------------------------------
 - Please note that the web files are the real nonhost files (even if they are very old), but for the websocket it is a redesign created by Hide/Canteventry, thanks to him :D
+- For more informations, you can go [here](https://github.com/rraptor06/nonhost.ml/wiki).
 
 ## 😎 WHAT DID THEY USE TO MAKE THEIR MENUS ? 😎
 -----------------------------------------------------------------------------------------------------------------------------
@@ -48,6 +49,7 @@ We're started ...
 - Lokey for VulcainV1.7/TrinityV3/Phantom3 files.
 - Hide/Canteventry for stealing Nonhost's WebSocket lol.
 - BullyWiiPlaza for the web files he gave me.
+
 
 
 

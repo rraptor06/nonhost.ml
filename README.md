@@ -1,5 +1,5 @@
-# HOW TO USE NONHOST.ML WIIU AGAIN IN 2026/2027 ?
-## WARNING: these nonhost files are old files so it can only launch Trinity V1 up to Trinity V2, V3 is not yet supported !!!
+# 🎉 HOW TO USE NONHOST.ML WIIU AGAIN IN 2026/2027 ? 🎉
+## ⚠️ WARNING: these nonhost files are old files so it can only launch Trinity V1 up to Trinity V2, V3 is not yet supported !!!
 -----------------------------------------------------------------------------------------------------------------------------
 - Original NON-HOST IP: 51.91.56.16
 - New IP: 192.168.1.4
@@ -9,11 +9,11 @@
 - Vulcain (adil) key: YhU4880KL6 | file name: 85q9tru781lg78y9j46v2dcf52qs6d56
 - Phantom (lto) key: XeYjobzW6h | file name: q8fsd5qsdf5q4fdh4utuyi45ghj5k4hj
 
-## WHAT IS NONHOST.ML ?
+## ✨ WHAT IS NONHOST.ML ? ✨
 -----------------------------------------------------------------------------------------------------------------------------
 - nonhost.ml was a small website to load and use a modmenu of cheats for BO2 and Minecraft on the Nintendo Wii U, there were 2 BO2 modmenus which were Vulcan and Phantom which cost 20€ and a Minecraft modmenu which was Trinity which cost 10€.
 
-## TUTORIAL:
+## 🪩 TUTORIAL: 🪩
 -----------------------------------------------------------------------------------------------------------------------------
 - First step, Install PHP and git clone this repository.
 - You must change your computer's IP address to `192.168.1.4` in the control panel.
@@ -21,11 +21,11 @@
 - Next, on your Wii U, go to settings and go to your Internet connection settings under Proxy and enter the following -> `IP: 192.168.1.4 Port: 8888` (or your proxy port). Then test your connection, and you're all set!
 - The last thing to do is to activate TCP Websocket to run Vulcain/Trinity/Phantom, so go to the `socket` folder and execute `php server.php` on the command line.
 
-## INFORMATIONS:
+## 💪 INFORMATIONS: 💪
 -----------------------------------------------------------------------------------------------------------------------------
 - Please note that the web files are the real nonhost files (even if they are very old), but for the websocket it is a redesign created by Hide/Canteventry, thanks to him :D
 
-## WHAT DID THEY USE TO MAKE THEIR MENUS ?
+## 😎 WHAT DID THEY USE TO MAKE THEIR MENUS ? 😎
 -----------------------------------------------------------------------------------------------------------------------------
 - To make the menu mods they used the source of WiiUGameHacking as we can see in lto.elf (Phantom), adil.elf (vulcain), adilmc.elf(minecraft) or rambo.elf(server) because inside we see a famous:
 ```
@@ -35,7 +35,7 @@ We're started ...
 ```
 - And also the launcher.elf was made under WiiUGameHacking too !
 
-## WHATS WORKS ?
+## ☑️ WHATS WORKS ? ☑️
 -----------------------------------------------------------------------------------------------------------------------------
 |       what's works ?       |
 |----------------------------|
@@ -43,11 +43,12 @@ We're started ...
 | SDL Application ✅         |
 | Vulcain/Trinity/Phantom ✅ |
 
-## Credits
+## 📝 CREDITS: 📝
 -----------------------------------------------------------------------------------------------------------------------------
 - Lokey for VulcainV1.7/TrinityV3/Phantom3 files.
 - Hide/Canteventry for stealing Nonhost's WebSocket lol.
 - BullyWiiPlaza for the web files he gave me.
+
 
 
 

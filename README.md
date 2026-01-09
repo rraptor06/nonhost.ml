@@ -47,8 +47,10 @@ We're started ...
 ## 📝 CREDITS: 📝
 -----------------------------------------------------------------------------------------------------------------------------
 - Lokey for VulcainV1.7/TrinityV3/Phantom3 files.
-- Hide/Canteventry for stealing Nonhost's WebSocket lol.
-- BullyWiiPlaza for the web files he gave me.
+- Hide/Canteventry for stealing nonhost's socket server.
+- BullyWiiPlaza for the web files.
+- Toffelz for the socket server documentation.
+
 
 
 

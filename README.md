@@ -38,9 +38,10 @@ We're started ...
 | Vulcain/Trinity/Phantom ✅ |
 
 ## Credits
-- Lokey for Vulcain/TrinityV3/Phantom files.
-- Hide/Canteventry for the websocket.
+- Lokey for VulcainV1.7/TrinityV3/Phantom3 files.
+- Hide/Canteventry for stealing Nonhost's WebSocket lol.
 - BullyWiiPlaza for the web files he gave me.
+
 
 
 

@@ -247,7 +247,7 @@ Selon le type de mod envoyé par le client :
 
 0 → Phantom
 
-1 → Vulkain
+1 → Vulcain
 
 2 → Trinity
 
@@ -360,7 +360,7 @@ Filtre via `device_id` pour que seul ce client soit affecté
 
 # public function UpdateAccountStatus($deviceId, $newStatus)
 
-Met à jour la colonne `ac_statu`s dans la DB pour un compte identifié par `device_id`
+Met à jour la colonne `ac_status` dans la DB pour un compte identifié par `device_id`
 
 `ac_status` est un entier utilisé comme bitflags pour stocker plusieurs statuts dans un seul champ
 
@@ -971,4 +971,5 @@ return substr(...);
 
 
 Renvoie une chaîne aléatoire de longueur exacte
+
 
